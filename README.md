@@ -1,6 +1,6 @@
 <h1 align="center">
   Portfolio 2024
 </h1>
-<h2>
+<p>
   Based on Gatsby.js and WordPress as Headless CMS.
-</h2>
+</p>
